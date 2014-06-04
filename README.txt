@@ -1,0 +1,1 @@
+This is a simple random password generating program written in python. It is currently in the very early phases, so it simply creates the ascii table to pull from right now as well as only doing upper and lower case letters. 
